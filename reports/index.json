@@ -1,0 +1,29 @@
+{
+  "colorPalette": "emerald-mint",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260423-210550-36h3",
+      "title": "Vikzmer",
+      "commanders": [
+        "Vikzmer"
+      ],
+      "dateStart": "2026-04-24T04:05:50.000Z",
+      "dateEnd": "2026-04-24T04:07:46.000Z",
+      "dateLabel": "4/23/2026, 9:05:50 PM - 4/23/2026, 9:07:46 PM",
+      "url": "https://BDRAgw2.github.io/yak/?report=20260423-210550-36h3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 28
+      }
+    }
+  ]
+}

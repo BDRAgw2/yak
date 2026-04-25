@@ -3,6 +3,40 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260424-194150-p7ag",
+      "title": "Papa Akram, Vikidin",
+      "commanders": [
+        "Papa Akram",
+        "Vikidin"
+      ],
+      "dateStart": "2026-04-25T02:41:50.000Z",
+      "dateEnd": "2026-04-25T03:31:14.000Z",
+      "dateLabel": "4/24/2026, 7:41:50 PM - 4/24/2026, 8:31:14 PM",
+      "url": "https://BDRAgw2.github.io/yak/?report=20260424-194150-p7ag",
+      "summary": {
+        "borderlandsPct": 0.6857142857142857,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260423-194801-00c6",
       "title": "Vikzmer",
       "commanders": [

@@ -1,7 +1,38 @@
 {
   "colorPalette": "emerald-mint",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260508-212423-jv0c",
+      "title": "Darth Clappers, Pretty Humner, Vikshoots",
+      "commanders": [
+        "Darth Clappers",
+        "Pretty Humner",
+        "Vikshoots"
+      ],
+      "dateStart": "2026-05-09T04:24:23.000Z",
+      "dateEnd": "2026-05-09T05:25:16.000Z",
+      "dateLabel": "5/8/2026, 9:24:23 PM - 5/8/2026, 10:25:16 PM",
+      "url": "https://BDRAgw2.github.io/yak/?report=20260508-212423-jv0c",
+      "summary": {
+        "borderlandsPct": 0.6981132075471698,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 37,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 46
+      }
+    },
     {
       "id": "20260424-194150-p7ag",
       "title": "Papa Akram, Vikidin",

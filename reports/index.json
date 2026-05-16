@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260515-193139-1d9l",
+      "title": "Zephyr Topaz",
+      "commanders": [
+        "Zephyr Topaz"
+      ],
+      "dateStart": "2026-05-16T02:31:39.000Z",
+      "dateEnd": "2026-05-16T04:07:20.000Z",
+      "dateLabel": "5/15/2026, 7:31:39 PM - 5/15/2026, 9:07:20 PM",
+      "url": "https://BDRAgw2.github.io/yak/?report=20260515-193139-1d9l",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260508-212423-jv0c",
       "title": "Darth Clappers, Pretty Humner, Vikshoots",
       "commanders": [

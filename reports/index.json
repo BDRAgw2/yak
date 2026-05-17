@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260516-143139-gh7d",
+      "title": "Vikshoots",
+      "commanders": [
+        "Vikshoots"
+      ],
+      "dateStart": "2026-05-16T21:31:39.000Z",
+      "dateEnd": "2026-05-16T22:37:34.000Z",
+      "dateLabel": "5/16/2026, 2:31:39 PM - 5/16/2026, 3:37:34 PM",
+      "url": "https://BDRAgw2.github.io/yak/?report=20260516-143139-gh7d",
+      "summary": {
+        "borderlandsPct": 0.06557377049180328,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 57,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260515-193139-1d9l",
       "title": "Zephyr Topaz",
       "commanders": [
